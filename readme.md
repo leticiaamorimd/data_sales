@@ -1,5 +1,5 @@
 ## Data Sales
-
+Exercising Pandas and Matplotly.lib
 
 ![Germany Sales](germany_sales_purchase.jpeg)
 
